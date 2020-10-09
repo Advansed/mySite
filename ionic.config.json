@@ -1,0 +1,7 @@
+{
+  "name": "mySite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
