@@ -54,8 +54,8 @@ const appPages: AppPage[] = [
     mdIcon: trashSharp
   },
   {
-    title: 'Spam',
-    url: '/page/Spam',
+    title: 'Policy',
+    url: '/page/Policy',
     iosIcon: warningOutline,
     mdIcon: warningSharp
   }
